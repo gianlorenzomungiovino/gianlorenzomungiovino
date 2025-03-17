@@ -1,16 +1,30 @@
-## Hi there 👋
+# Gianlorenzo Mungiovino
 
-<!--
-**gianlorenzomungiovino/gianlorenzomungiovino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello there!
 
-Here are some ideas to get you started:
+## 👨🏻‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 Passionate about technology, IT and sound design.  
+🔹 I enjoy diving deep into challenges and finding solutions.  
+🔹 Full-Stack Web Developer.
+
+## 🛠 Tech Stack
+
+🌐 HTML5, CSS, JavaScript, TypeScript, React, Node.js, REST API  
+⚙️ Git, GitHub, CI (Continuous Integration), Agile Methodology  
+🔧 Visual Studio Code  
+🎵 Unreal Engine, FMOD Studio, Cockos Reaper, Avid Pro Tools, Izotope RX
+
+## 💼 Professional Experience
+
+🖥 Full-Stack Web Developer
+🎚 Sound Designer & Audio Engineer
+🎛 Recording and post-production
+
+## 🤝🏻 Contact Me
+
+📧 Email: gm@mungiovino.it  
+🔗 LinkedIn Profile: [Gianlorenzo Mungiovino](https://www.linkedin.com/in/gianlorenzo-mungiovino/)  
+🔗 GitHub: [gianlorenzomungiovino](https://github.com/gianlorenzomungiovino)  
+📍 Palermo  
+📞 (+39) 3894863598
