@@ -2,7 +2,7 @@
 
 <h3 align="center">🔹 Passionate about technology, IT and sound design. 🔹 I enjoy diving deep into challenges and finding solutions. 🔹 Full-Stack Web Developer.</h3>
 
-- 🔭 I’m currently working on [Ramberly](https://github.com/Francesco-alemanno/Ramberly)
+- 🔭 I’m currently working on [Gotcha](https://github.com/gianlorenzomungiovino/Gotcha)
 
 - 👨‍💻 Check it out [https://github.com/gianlorenzomungiovino](https://github.com/gianlorenzomungiovino)
 
