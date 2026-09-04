@@ -1,26 +1,99 @@
-<h1 align="center">Hello there! I'm Gianlorenzo Mungiovino</h1>
+<div align="center">
 
-<h3 align="center">🔹 Passionate about technology, IT and sound design. 🔹 I enjoy diving deep into challenges and finding solutions. 🔹 Full-Stack Web Developer.</h3>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:111827,100:312e81&height=150&section=header&animation=fadeIn&fontAlign=50&fontAlignY=50&fontSize=36&fontColor=ffffff&text=Gianlorenzo%20Mungiovino" />
 
-- 🔭 I'm currently working on [GSD-Qdrant-Knowledge](https://github.com/gianlorenzomungiovino/GSD-Qdrant-Knowledge.git)
+<h2>AI SYSTEMS ENGINEER</h2>
+<p><i>LLMs&nbsp;&nbsp;·&nbsp;&nbsp;Local AI&nbsp;&nbsp;·&nbsp;&nbsp;Full-Stack Development</i></p>
 
-- 👨‍💻 Check it out [https://github.com/gianlorenzomungiovino](https://github.com/gianlorenzomungiovino)
+</div>
+<br>
 
-- 💬 Proficient in **HTML, CSS, Javascript, React, Typescript, Node.js, VS Code**
+### 👋 About Me
 
-- 📫 Email **gm@mungiovino.it**
-
+- 🔭 I'm currently working on [GSD-Qdrant-Knowledge](https://github.com/gianlorenzomungiovino/GSD-Qdrant-Knowledge)
+- 💬 Interested in **LLMs, Local AI, Agentic Systems, RAG and Full-Stack Development**
 - ⚡ Fun fact **I'm a musician and sound designer!**
+  <br><br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/gianlorenzomungiovino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40" /></a>
-<a href="https://fb.com/gianlorenzomungiovino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40" height="40" /></a>
-<a href="https://instagram.com/gianlorenzomungiovino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="40" /></a>
-</p>
+### 🛠️ Tech Stack
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/> </a> <a href="https://github.com/ggml-org/llama.cpp" target="_blank" rel="noreferrer"> <img src="./assets/llama.cpp-icon.svg" width="40" height="40"/> </a> <a href="https://github.com/open-gsd/gsd-pi" target="_blank" rel="noreferrer"> <img src="./assets/open gsd-logo.png" width="40" height="40"/> </a> <a href="https://github.com/anthropics/claude-code" target="_blank" rel="noreferrer"> <img src="./assets/claude-ai-logo-rounded-hd-free-png.webp" width="40" height="40"/> </a> <a href="https://modelcontextprotocol.io" target="_blank" rel="noreferrer"> <img src="./assets/model-context-protocol-logo-png_seeklogo-653256.png" width="40" height="40"/> </a> <a href="https://github.com/qdrant/qdrant" target="_blank" rel="noreferrer"> <img src="./assets/qdrant-icon.png" width="36" height="36"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" width="40" height="40"/> </a> </p>
+<div align="center">
+<a href="https://github.com/ggml-org/llama.cpp" target="_blank" rel="noreferrer">
+  <img src="./assets/llama.cpp-icon.svg" width="40" height="40" alt="llama.cpp"/>
+</a>
+<a href="https://qdrant.tech/" target="_blank" rel="noreferrer">
+  <img src="./assets/qdrant-icon.png" width="36" height="36" alt="Qdrant"/>
+</a>
+<a href="https://modelcontextprotocol.io/" target="_blank" rel="noreferrer">
+  <img src="./assets/model-context-protocol-logo-png_seeklogo-653256.png" width="40" height="40" alt="Model Context Protocol"/>
+</a>
+<a href="https://github.com/open-gsd/gsd-pi" target="_blank" rel="noreferrer">
+  <img src="./assets/open%20gsd-logo.png" width="40" height="40" alt="GSD"/>
+</a>
+<a href="https://github.com/anthropics/claude-code" target="_blank" rel="noreferrer">
+  <img src="./assets/claude-ai-logo-rounded-hd-free-png.webp" width="40" height="40" alt="Claude Code"/>
+</a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5"/>
+</a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+</a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
+</a>
+<a href="https://react.dev/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React"/>
+</a>
+<a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
+</a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40" alt="Express"/>
+</a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" alt="PostgreSQL"/>
+</a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
+</a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/>
+</a>
+</div>
+<br>
 
-<p href="https://github.com/gianlorenzomungiovino" target="_blank" rel="noreferrer"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gianlorenzomungiovino&theme=github"/></p>
-<p href="https://github.com/gianlorenzomungiovino" target="_blank" rel="noreferrer">&nbsp;<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gianlorenzomungiovino&theme=github"/></p>
+### 📊 GitHub Activity
+
+<table style="width: 100%; border-collapse: collapse; border-spacing: 0;" border="0" cellpadding="0" cellspacing="0"><tr>
+<td style="border: none; padding: 0;"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gianlorenzomungiovino&theme=github" width="600"/></td>
+<td style="border: none; padding: 0;"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gianlorenzomungiovino&theme=github" height="170"/></td>
+</tr></table>
+<br><br>
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/gianlorenzo-mungiovino" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
+</a>
+
+<a href="https://github.com/gianlorenzomungiovino" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-12100E?logo=github&logoColor=white&style=for-the-badge" alt="GitHub" />
+</a>
+
+<a href="mailto:gm@mungiovino.it">
+  <img src="https://img.shields.io/badge/Email-D44638?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" />
+</a>
+
+<a href="https://instagram.com/gianlorenzomungiovino" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram" />
+</a>
+
+<a href="https://fb.com/gianlorenzomungiovino" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" alt="Facebook" />
+</a>
+
+</div>
