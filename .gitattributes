@@ -1,0 +1,4 @@
+# Force GitHub to treat these as binary (no line-ending conversion)
+assets/*.webp text=auto
+assets/*.jpg text=auto
+assets/*.png text=auto

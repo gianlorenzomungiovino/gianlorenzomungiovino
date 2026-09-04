@@ -1,0 +1,9 @@
+# GSD
+.gsd/
+
+# Background shell sessions
+.bg-shell/
+
+# OS
+.DS_Store
+Thumbs.db
