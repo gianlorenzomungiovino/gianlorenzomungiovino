@@ -10,9 +10,10 @@
 
 ### 👋 About Me
 
-- 🔭 I'm currently working on [GSD-Qdrant-Knowledge](https://github.com/gianlorenzomungiovino/GSD-Qdrant-Knowledge)
-- 💬 Interested in **LLMs, Local AI, Agentic Systems, RAG and Full-Stack Development**
-- ⚡ Fun fact **I'm a musician and sound designer!**
+- 🏗️ Building AI systems around **local LLM inference, agentic workflows, retrieval, and persistent knowledge**
+- 🔭 Currently working on [GSD-Qdrant-Knowledge](https://github.com/gianlorenzomungiovino/GSD-Qdrant-Knowledge), exploring how project knowledge, code, and documentation can be automatically indexed and retrieved across development workflows
+- 💬 Interested in **local AI infrastructure, agentic systems, RAG, enterprise memory, and full-stack engineering**
+- ⚡ Fun fact: I'm a musician and sound designer!
   <br><br>
 
 ### 🛠️ Tech Stack
@@ -86,14 +87,6 @@
 
 <a href="mailto:gm@mungiovino.it">
   <img src="https://img.shields.io/badge/Email-D44638?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" />
-</a>
-
-<a href="https://instagram.com/gianlorenzomungiovino" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram" />
-</a>
-
-<a href="https://fb.com/gianlorenzomungiovino" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" alt="Facebook" />
 </a>
 
 </div>
